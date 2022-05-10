@@ -1,0 +1,30 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Merle"
+    },
+    {
+      "id": 2,
+      "name": "Maude"
+    }
+  ],
+  "completions": [
+  ],
+  "requests": [
+    {
+      "description": "Kitchen Sink",
+      "address": "123 Main St",
+      "budget": "400",
+      "neededBy": "2022-06-26",
+      "id": 1
+    },
+    {
+      "description": "Cracked Tub",
+      "address": "1244 Delmas Ave",
+      "budget": "300",
+      "neededBy": "2022-04-02",
+      "id": 2
+    }
+  ]
+}
